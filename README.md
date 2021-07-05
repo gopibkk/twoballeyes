@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/gopibkk/twoballeyes.git/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
