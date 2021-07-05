@@ -1,10 +1,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   <img src="./img/logo.png" alt="Logo" width="300" height="150">
+   <img src="./eyes.png" alt="Logo" width="300" height="150">
   </a>
    <p align="justify">
-    In 80s Pac-Man was a video game developed by japanese developer who travels around a maze trying to eat dots and avoid hunting ghosts.
+    It’s a fun activity where styles are manipulated in the movement of two eyeballs along with a synchronized way of mouse actions.
      <br />
    </p>
 </p>
@@ -28,9 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
-Basic exercise explains the movement of a single PacMan image across the screen and reversing motion upon reaching the page limit. In addition, this exercise helps to understand the basics of DOM concepts.
-The advanced exercise explains how to add more PacMan images, control the movement in a zigzag pattern, and reverse the direction upon page limits.
+It’s a fun activity where styles are manipulated in the movement of two eyeballs along with a synchronized way of mouse actions. In these exercises, various components of HTML, CSS, and JavaScript come together.
 
 ### Built With
 
@@ -43,7 +41,7 @@ javascript and HTML
 To get a local copy up and running follow these simple steps.
 
 <ol>
-    <li>Download all HTML and IMG folders</li>
+    <li>Download all HTML </li>
      <li>Open the .html file in the browser</li>
 </ol>
 <!-- ROADMAP -->
