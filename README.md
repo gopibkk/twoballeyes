@@ -41,7 +41,7 @@ javascript and HTML
 To get a local copy up and running follow these simple steps.
 
 <ol>
-    <li>Download all HTML </li>
+    <li>Download HTML and CSS file </li>
      <li>Open the .html file in the browser</li>
 </ol>
 <!-- ROADMAP -->
